@@ -1,0 +1,7 @@
+﻿  timer.cpp
+  a2main.cpp
+c:\users\kate\desktop\seneca\semester 5\dsa555\assignments\a2\a2part3\a2main.cpp(73): warning C4101: 'reccount': unreferenced local variable
+c:\users\kate\desktop\seneca\semester 5\dsa555\assignments\a2\a2part3\a2main.cpp(81): warning C4101: 'timing': unreferenced local variable
+  Generating Code...
+  a2part3.vcxproj -> C:\Users\Kate\Desktop\seneca\semester 5\DSA555\assignments\a2\a2part3\Debug\a2part3.exe
+  a2part3.vcxproj -> C:\Users\Kate\Desktop\seneca\semester 5\DSA555\assignments\a2\a2part3\Debug\a2part3.pdb (Partial PDB)
