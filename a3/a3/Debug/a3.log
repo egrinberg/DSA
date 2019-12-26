@@ -1,0 +1,10 @@
+﻿  timer.cpp
+  a3main.local.cpp
+  a3.cpp
+c:\users\kate\desktop\seneca\semester 5\dsa555\assignments\a3\a3\a3.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\kate\desktop\seneca\semester 5\dsa555\assignments\a3\a3\a3.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\kate\desktop\seneca\semester 5\dsa555\assignments\a3\a3\a3.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\kate\desktop\seneca\semester 5\dsa555\assignments\a3\a3\a3.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  a3.vcxproj -> C:\Users\Kate\Desktop\seneca\semester 5\DSA555\assignments\a3\a3\Debug\a3.exe
+  a3.vcxproj -> C:\Users\Kate\Desktop\seneca\semester 5\DSA555\assignments\a3\a3\Debug\a3.pdb (Partial PDB)
